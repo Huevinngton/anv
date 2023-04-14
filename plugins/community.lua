@@ -6,7 +6,5 @@ return {
   { import = "astrocommunity.color.twilight-nvim" },
   { import = "astrocommunity.color.modes-nvim" },
   { import = "astrocommunity.color.tint-nvim" },
-  { import = "astrocommunity.colorscheme.nightfox" },
-  { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.media.presence-nvim" },
 }
